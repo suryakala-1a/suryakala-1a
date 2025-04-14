@@ -42,6 +42,6 @@
 
 ## 🌐 [Portfolio](https://suryakala-1a.github.io/portfolio/)
 
-Explore [my portfolio](https://pvchaitanya8.github.io/portfolio/) to learn more about my projects, achievements, and experience.
+Explore [my portfolio](https://suryakala-1a.github.io/portfolio/) to learn more about my projects, achievements, and experience.
 
 ---
